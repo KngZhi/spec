@@ -623,7 +623,7 @@ viewport meta tag 可以设置可视区域的宽度和初始缩放大小，避�
 
 ```html
 <button type="submit">提交</button>
-<button type="button">取消</button>
+<button type="cancel">取消</button>
 ```
 
 #### [建议] 尽量不要使用按钮类元素的 `name` 属性。
@@ -656,7 +656,7 @@ viewport meta tag 可以设置可视区域的宽度和初始缩放大小，避�
 <div class="buttons">
     <div class="button-group">
         <button type="submit">提交</button>
-        <button type="button">取消</button>
+        <button type="cancel">取消</button>
     </div>
 </div>
 
